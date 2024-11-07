@@ -60,4 +60,5 @@ for _ in range(2):
 user_sum = sum(user_cards)
 comp_sum = sum(comp_cards)
 
+
 calculate_score(sum_user_cards=user_sum, sum_comp_cards=comp_sum)
