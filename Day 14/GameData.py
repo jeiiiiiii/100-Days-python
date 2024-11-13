@@ -35,6 +35,7 @@ data = [
         'description': 'Reality TV personality and businesswoman and Self-Made Billionaire',
         'country': 'United States'
     },
+    
     {
         'name': 'Kim Kardashian',
         'follower_count': 167,
