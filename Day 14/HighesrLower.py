@@ -40,13 +40,6 @@ def comparison(answer):
             print(f"You're right! Current score: {score} ")
             score += 1
         print(f"Compare A:{profile_A}")
-        
-        
-
-
-
-
-
 
 
 answer = input("Who has more followers? A or B").lower()
