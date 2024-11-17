@@ -24,5 +24,4 @@ table.add_column("Type",["Electric", "Water", "Fire"])
 
 table.align = "l"
 
-
 print(table)
