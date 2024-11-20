@@ -39,3 +39,4 @@ while True:
     another = str(input("Do you want another drink? Y or N: ")).lower()
     if another == "n":
         break
+        
