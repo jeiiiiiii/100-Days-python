@@ -15,4 +15,5 @@ print(f"Number of students = {total_students}")
 average = total / total_students
 print(f"The average height is = {average}")
 
+
 # can simply use sum and ave
