@@ -9,4 +9,5 @@ for score in student_scores:
         
 print(f"The highest score is: {highscore}")
 
+
 #Can simply use max
