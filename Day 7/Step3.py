@@ -99,3 +99,6 @@ while not done:
         break
 
     print(stages[lives])
+
+
+
