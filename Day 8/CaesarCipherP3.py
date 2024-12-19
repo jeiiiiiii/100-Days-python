@@ -35,5 +35,8 @@ while True:
     tapos = input("Type '1' to go again or '2' to exit: ")
 
     if tapos == '2':
+
+
+        
         print("Thank you!")
         break
